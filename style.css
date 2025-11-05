@@ -166,6 +166,23 @@ section samp{
 .contact-us li {
   margin: 5px 0;
 }
+/* .about{
+ color: white;
+ position: absolute;
+ top:67px;
+ width: 70px;
+ display: none;
+
+}
+.about1{
+background-color: rgb(241, 13, 13);
+border-radius: 10px;
+position: relative;
+}
+.about1:hover .about{
+  display: block;
+
+}
 
 
-
+ */
